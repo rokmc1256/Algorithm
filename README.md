@@ -1,2 +1,2 @@
 # Algorithm
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+내가 푼 알고리즘 문제들!
